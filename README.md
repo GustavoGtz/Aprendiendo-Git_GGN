@@ -1,6 +1,9 @@
 # Aprendiendo-Git_GGN
 13/12/2021 Aprendiendo a usar GitHub
 
+
+Este readme es diferente al main
+
 # Titulo 
 ## Subtitulo
 
